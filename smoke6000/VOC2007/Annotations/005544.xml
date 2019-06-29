@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImage</folder>
+	<filename>005544.jpg</filename>
+	<path>C:\Users\lenovo\Desktop\何国行5001_6099\JPEGImage\005544.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>handsmoke</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>531</ymin>
+			<xmax>79</xmax>
+			<ymax>591</ymax>
+		</bndbox>
+	</object>
+</annotation>

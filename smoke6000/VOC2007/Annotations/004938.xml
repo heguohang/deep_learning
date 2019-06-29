@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImage</folder>
+	<filename>004938.jpg</filename>
+	<path>C:\Users\asus\Desktop\胡飞虹4001_5000\JPEGImage\004938.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mouthsmoke</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>80</xmin>
+			<ymin>102</ymin>
+			<xmax>255</xmax>
+			<ymax>307</ymax>
+		</bndbox>
+	</object>
+</annotation>

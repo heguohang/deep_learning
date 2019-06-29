@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImage</folder>
+	<filename>002590.jpg</filename>
+	<path>C:\Users\dell\Desktop\马帅2000_4000\JPEGImage\002590.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mouthsmoke</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>20</xmin>
+			<ymin>51</ymin>
+			<xmax>85</xmax>
+			<ymax>140</ymax>
+		</bndbox>
+	</object>
+</annotation>

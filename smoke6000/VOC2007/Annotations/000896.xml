@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImage</folder>
+	<filename>000896.jpg</filename>
+	<path>C:\Users\dell\Desktop\马帅700_1400\JPEGImage\000896.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>handsmoke</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>610</xmin>
+			<ymin>482</ymin>
+			<xmax>675</xmax>
+			<ymax>527</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImage</folder>
+	<filename>001401.jpg</filename>
+	<path>C:\Users\lenovo\Desktop\VOC2007\JPEGImage\001401.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>handsmoke</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>341</ymin>
+			<xmax>53</xmax>
+			<ymax>394</ymax>
+		</bndbox>
+	</object>
+</annotation>

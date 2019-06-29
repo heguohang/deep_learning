@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImage</folder>
+	<filename>000991.jpg</filename>
+	<path>C:\Users\dell\Desktop\马帅700_1400\JPEGImage\000991.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mouthsmoke</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>546</xmin>
+			<ymin>37</ymin>
+			<xmax>662</xmax>
+			<ymax>209</ymax>
+		</bndbox>
+	</object>
+</annotation>

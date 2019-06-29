@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImage</folder>
+	<filename>001914.jpg</filename>
+	<path>C:\Users\lenovo\Desktop\VOC2007\JPEGImage\001914.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mouthsmoke</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>305</xmin>
+			<ymin>182</ymin>
+			<xmax>471</xmax>
+			<ymax>375</ymax>
+		</bndbox>
+	</object>
+</annotation>

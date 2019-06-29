@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImage</folder>
+	<filename>000359.jpg</filename>
+	<path>C:\Users\asus\Desktop\胡飞虹0_699\JPEGImage\000359.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mouthwithoutsmoke</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>176</xmin>
+			<ymin>227</ymin>
+			<xmax>362</xmax>
+			<ymax>451</ymax>
+		</bndbox>
+	</object>
+</annotation>

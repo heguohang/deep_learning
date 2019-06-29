@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImage</folder>
+	<filename>000487.jpg</filename>
+	<path>C:\Users\asus\Desktop\胡飞虹0_699\JPEGImage\000487.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>handsmoke</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>625</xmin>
+			<ymin>510</ymin>
+			<xmax>706</xmax>
+			<ymax>561</ymax>
+		</bndbox>
+	</object>
+</annotation>
